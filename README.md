@@ -7,13 +7,25 @@ linspirer eploits
 
 为了防止被爬虫，重要程序将会以压缩包的形势上传到库中
 
-本目录包含:
+### 指路
 
 [万能的搜索](https://github.com/search?q=linspirer)
 
+[万能的搜索2](https://baidu.com)
+
 [找不到领创包分析????](https://github.com/F-Unction/LinspirerAppStoreEnumerator)
 
-[111](https://github.com/ljlVink/magisk-root.github.io)
+[勇士欢迎来到科大讯飞下载站](https://github.com/ljlVink/magisk-root.github.io)
+
+[lspdemo](https://youngtoday.github.io/)
+
+[联想bl解锁教程](https://github.com/YoungToday/Lenovotabunlock)
+
+[TB-X505F 刷机资源站 | KuzeKumiko.github.io](https://kuzekumiko.github.io/)
+
+[领创获取设备密码](https://github.com/KuzeKumiko/Lenovo_tb_x505f_StudyNM/raw/main/getpwd.exe)
+
+[5.03以下5.0.300上 解控](https://github.com/YoungToday/rc)
 
 管理密码，退出密码计算(基于python)
 
