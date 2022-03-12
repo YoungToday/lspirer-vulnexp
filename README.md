@@ -1,6 +1,5 @@
 # lspirer-vulnexp
 
-# 装上了看说明 看说明 音量下进程序啊
 
 
 linspirer eploits
